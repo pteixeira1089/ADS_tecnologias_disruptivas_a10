@@ -2,7 +2,7 @@
 
 Projeto criado com as bibliotecas React JS e Material UI.
 
-##Notas ao professor que irá corrigir a atividade
+## Notas ao professor que irá corrigir a atividade
 O que foi solicitado: alterar funcionalidades e/ou formatações no template fornecido
 
 O que foi feito:
